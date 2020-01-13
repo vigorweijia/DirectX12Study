@@ -1,2 +1,3 @@
-﻿  main.cpp
-  WjaDx12.vcxproj -> D:\wjadx12\WjaDx12\x64\Debug\WjaDx12.exe
+﻿D:\wjadx12\WjaDx12\WjaDx12\PixelShader.hlsl(1,11-45): error X3514: 'main' must have a max vertex count
+  
+  compilation failed; no code produced
